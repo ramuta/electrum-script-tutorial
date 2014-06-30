@@ -115,7 +115,7 @@ Again, it’s important to include the full path to your script in order to run 
 you’ll be asked to enter your password. After the successful transaction you get the transaction ID which you can check 
 at [blockchain.info](https://blockchain.info/).
 
-And that’s it! You can see the whole python script here: []()
+And that’s it! You can see the whole python script here: [https://github.com/ramuta/electrum-script-tutorial/blob/master/electrum-script.py](https://github.com/ramuta/electrum-script-tutorial/blob/master/electrum-script.py)
 
 You can also see a list of all the Electrum commands and the attributes they take here: 
 [https://github.com/spesmilo/electrum/blob/master/lib/commands.py](https://github.com/spesmilo/electrum/blob/master/lib/commands.py )
